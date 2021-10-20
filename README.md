@@ -2,6 +2,8 @@
 
 I am a Front-End Developer.
 
+- ![Github stats 1](https://github-readme-stats.vercel.app/api?username=mustafadurmaz&show_icons=true&theme=gradient)
+
 - 🌱 I’m currently learning Javascript and React.
 
 - 📫 How to reach me:
