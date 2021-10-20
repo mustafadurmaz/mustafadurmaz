@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi Dear Colleagues 👋
+
+I am a Front-End Developer.
+
+- 🌱 I’m currently learning Javascript and React.
+
+
+
 
 <!--
 **mustafadurmaz/mustafadurmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
