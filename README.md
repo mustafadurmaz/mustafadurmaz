@@ -1,10 +1,10 @@
 ### Hi Dear Colleagues 👋
 
-I am a Front-End Developer.
+I am a Software Developer.
 
 - ![Github stats 1](https://github-readme-stats.vercel.app/api?username=mustafadurmaz&show_icons=true&theme=gradient)
 
-- 🌱 I’m currently learning Javascript and React.
+- 🌱 I’m currently learning NodeJS
 
 - 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafadurmaz1/)
