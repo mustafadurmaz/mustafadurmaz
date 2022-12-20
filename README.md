@@ -2,9 +2,8 @@
 
 I am a Software Developer.
 
-- ![Github stats 1](https://github-readme-stats.vercel.app/api?username=mustafadurmaz&show_icons=true&theme=gradient)
+- React, Node.js, Neo4J
 
-- 🌱 I’m currently learning NodeJS
 
 ### Languages and Tools:
 
